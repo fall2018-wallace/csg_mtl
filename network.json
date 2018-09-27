@@ -1,6 +1,9 @@
 {
     "collaborators": [
-        "arun468"
+        "arun468",
+        "parshva11shah",
+        "sshete",
+        "dasheth"
     ],
     "created_at": "2018-09-27 17:02:09",
     "edges": [
@@ -36,6 +39,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-09-27 17:02:09",
+    "updated_at": "2018-09-27 17:04:05",
     "url": "https://github.com/fall2018-wallace/csg_mtl"
 }
