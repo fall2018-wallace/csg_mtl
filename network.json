@@ -14,7 +14,7 @@
                     "type": "csv"
                 }
             ],
-            "source": "raw_data.csv",
+            "source": "satisfactionSurvey.csv",
             "target": "clean.R"
         },
         {
@@ -30,7 +30,7 @@
     ],
     "nodes": [
         {
-            "name": "raw_data.csv"
+            "name": "satisfactionSurvey.csv"
         },
         {
             "name": "clean.R"
@@ -43,6 +43,6 @@
             "name": "mkl.R"
         }
     ],
-    "updated_at": "2018-10-11 16:50:07",
+    "updated_at": "2018-10-11 16:50:35",
     "url": "https://github.com/fall2018-wallace/csg_mtl"
 }
