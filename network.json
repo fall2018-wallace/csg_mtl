@@ -15,7 +15,7 @@
                 }
             ],
             "source": "satisfactionSurvey.csv",
-            "target": "clean.R"
+            "target": "test.R"
         },
         {
             "ports": [
@@ -24,7 +24,7 @@
                     "type": "csv"
                 }
             ],
-            "source": "clean.R",
+            "source": "test.R",
             "target": "data.csv"
         }
     ],
@@ -33,16 +33,19 @@
             "name": "satisfactionSurvey.csv"
         },
         {
-            "name": "clean.R"
-        },
-        {
             "name": "data.csv"
         },
         {
             "desc": "",
             "name": "mkl.R"
+        },
+        {
+            "assigned_to": "not assigned",
+            "desc": "",
+            "name": "test.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-11 16:50:35",
+    "updated_at": "2018-10-11 16:51:05",
     "url": "https://github.com/fall2018-wallace/csg_mtl"
 }
