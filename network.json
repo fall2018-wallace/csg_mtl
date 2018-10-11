@@ -36,16 +36,12 @@
             "name": "data.csv"
         },
         {
-            "desc": "",
-            "name": "mkl.R"
-        },
-        {
             "assigned_to": "not assigned",
             "desc": "",
             "name": "test.R",
             "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-11 16:51:05",
+    "updated_at": "2018-10-11 16:51:10",
     "url": "https://github.com/fall2018-wallace/csg_mtl"
 }
