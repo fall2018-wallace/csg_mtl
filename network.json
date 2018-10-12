@@ -26,6 +26,11 @@
             ],
             "source": "test.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [],
+            "source": "test.R",
+            "target": "data_cleaning.txt"
         }
     ],
     "nodes": [
@@ -45,6 +50,6 @@
             "name": "data_cleaning.txt"
         }
     ],
-    "updated_at": "2018-10-12 03:03:49",
+    "updated_at": "2018-10-12 03:04:11",
     "url": "https://github.com/fall2018-wallace/csg_mtl"
 }
